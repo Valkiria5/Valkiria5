@@ -80,4 +80,4 @@
 
 ------
 
-[Niko-Cloud](https://github.com/Valkiria5)
+[Valkiria5](https://github.com/Valkiria5)
