@@ -9,7 +9,7 @@
 - 🌱 I’m currently practice with my skills (javascript, reactJS, ChartJS, Redux, Express, PostgresSQL)
 
 
-- ❓ You can Email Me Through [Here] <Link href="dharmavaninaramayoquilinan@gmail.com">
+- ❓ You can Email Me Through [Here]("dharmavaninaramayoquilinan@gmail.com")
 
 <br/>  
 
@@ -57,9 +57,9 @@
 
 ## Connect with me
 <div align="center">
-<a href="www.linkedin.com/in/vanina-ramayo-643460264" target="_blank">
+<button href="www.linkedin.com/in/vanina-ramayo-643460264" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+</button>
 
 </div>
 
