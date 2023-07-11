@@ -6,10 +6,9 @@
 - 🔭 I’m currently looking for a work.
 
 
-- 🌱 I’m currently practice with my skills (javascript, reactJS, ChartJS, Redux, Express, PostgresSQL)
+- 🌱 Love to writing code and learning new features
 
-
-- ❓ You can Email Me Through [Here](mailto:dharmavaninaramayoquilinan@gmail.com)
+-  📧 &emsp; Reach me anytime: dharmavaninaramayoquilinan@gmail.com<br/><br/>
 
 <br/>  
 
