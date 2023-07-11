@@ -56,7 +56,7 @@
 
 ## Connect with me
 <div align="center">
-<b><a target="_blank" href="https://www.linkedin.com/in/franco-rodriguez-375423264/">「 Linked Me 」</a></b>
+<b><a target="_blank" href="https://www.linkedin.com/in/vanina-ramayo-643460264/">「 Linked Me 」</a></b>
 </button>
 
 </div>
