@@ -10,7 +10,7 @@
 -  📧 &emsp;Reach me anytime: dharmavaninaramayoquilinan@gmail.com<br/><br/>
 
 <br/>  
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
   
 <br/>
 
