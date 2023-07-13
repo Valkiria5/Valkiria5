@@ -1,17 +1,17 @@
 ## <div align="center">I'm Vanina Ramayo ✨</div>
 
-### <div align="center">I'm an Argentinian in the process of learning in the world of Web Development</div>
+### <div align="center"> 「 I am a full stack web appplication developer from <b>Argentina</b></div>
 
 
 - 🔭 I’m currently looking for a work.
-
-
+- 🌱 Education in Henry. 
 - 🌱 Love to writing code and learning new features
-
+- 🔭 funFact: "There are two ways to write error-free programs; only the third one works"
 -  📧 &emsp;Reach me anytime: dharmavaninaramayoquilinan@gmail.com<br/><br/>
 
 <br/>  
-
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
 <br/>
 
 ## Tech Stack
