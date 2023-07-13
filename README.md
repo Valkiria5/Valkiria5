@@ -61,7 +61,7 @@
 ## Connect with me
 <div align="center">
 <b><a target="_blank" href="https://www.linkedin.com/in/vanina-ramayo-643460264/">「 Linked Me 」</a></b>
--  📧 &emsp;Reach me anytime: dharmavaninaramayoquilinan@gmail.com<br/><br/>
+- dharmavaninaramayoquilinan@gmail.com<br/><br/>
 
 </button>
 
